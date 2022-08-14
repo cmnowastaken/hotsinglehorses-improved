@@ -1,0 +1,24 @@
+#horsepics {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-;
+}
+
+.horseImg {
+  object-fit: cover;
+  width: calc(100vw / 5.2);
+  height: calc(100vw / 5);
+  margin: 5px 0 5px 0;
+  text-align: center;
+}
+
+.bio
+{
+  white-space: break-spaces;
+  width: calc(100vw / 5);
+}
+
+.name
+{
+  font-weight: bold;
+}
