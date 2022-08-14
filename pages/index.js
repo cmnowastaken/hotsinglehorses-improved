@@ -121,7 +121,7 @@ const horses = [
     horses.map(horse => (
       <div key={horse.id}>
         <div class={`${styles.name}`}>{horse.name}</div>
-        <img src={`${horse.id}.jpeg`} className={`${styles.horseImg}`} />      
+        <img src={`${horse.id}.JPEG`} className={`${styles.horseImg}`} />      
         <div class={`${styles.bio}`}>{horse.bio}</div>
       </div>
       ))
