@@ -6,7 +6,7 @@
 
 .horseImg {
   object-fit: cover;
-  width: calc(100vw / 5.2);
+  width: calc(100vw / 5.5);
   height: calc(100vw / 5);
   margin: 5px 0 5px 0;
   text-align: center;
